@@ -1,2 +1,0 @@
-# dynlb
-Dynamic Load Balancer

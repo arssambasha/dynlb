@@ -1,2 +1,2 @@
-# MAAB
-Adaptive Load Balancer
+# dynlb
+Dynamic Load Balancer
